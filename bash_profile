@@ -1,7 +1,6 @@
 set -o vi
 
 export EDITOR=vim
-export GSH_USER=brandon
 
 export PATH=$PATH:$HOME/Library/Python/2.7/bin
 export GOPATH=$HOME/go
